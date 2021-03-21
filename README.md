@@ -36,3 +36,5 @@
     3. contain more than 1 different symbol. For example, <b><font color = 'red'>app*+</font></b>, or <b><font color = 'red'>a*p?kk+</font></b>, <b><font color = 'red'>a***p??kk+?*</font></b>.
     </p>
 </body>
+
+## REFERENCE : <a href = "https://noj.tw/problem/123">Normal OJ</a>
